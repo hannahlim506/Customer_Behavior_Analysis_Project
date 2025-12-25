@@ -1,7 +1,7 @@
 # Customer Behavior Analysis Project
 Data analytics project with data analysis of customer shopping trends from retail data using SQL, Python, and Power BI.
 
-# Tasks Taken
+# Tasks
 - Data Preparation, Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 - Data Analysis (MySQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 - Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
